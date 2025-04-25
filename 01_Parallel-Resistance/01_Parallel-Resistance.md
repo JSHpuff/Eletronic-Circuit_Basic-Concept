@@ -1,8 +1,7 @@
 # Principle
-Resistor connect in parallel.
-$$
-\frac{1}{R_T} = \sum_{i=1}^{n} \frac{1}{R_i}
-$$
+Resistor connect in parallel.  
+
+<img src="https://latex.codecogs.com/svg.latex?\frac{1}{R_T}%20=%20\sum_{i=1}^{n}%20\frac{1}{R_i}" alt="Parallel Resistance Formula">
 
 - R<sub>T</sub> = Total Resistance
 - R<sub>i</sub> = Each Resistance on the parallel circuit
