@@ -19,3 +19,8 @@ And it is equal to:
 1. The R1 is what your are using in circuit. 
 2. R1 is very big so that the voltage is to low to detected.
 3. You will need to use parallel resistance to reduce the resistance on this part of circuit. 
+
+# Note
+- Need to note the resistor cannot differ too much.
+- If you got differ too much resistors,  
+the current will only go on low-resistor's circuit.
