@@ -9,9 +9,9 @@ $$
 
 # Circuit
 The parallel resistance circuit is below:
-![Parallel Resistance Circuit](ParaResis_1.png)
+![Parallel Resistance Circuit](01_Parallel-Resistance/ParaResis_1.png)
 And it is equal to:
-![Parallel Resistance Circuit](ParaResis_2.png)
+![Parallel Resistance Circuit](01_Parallel-Resistance/ParaResis_2.png)
 
 # Usage Situation
 1. The R1 is what your are using in circuit. 
