@@ -8,9 +8,9 @@ Resistor connect in parallel.
 
 # Circuit
 The parallel resistance circuit is below:
-![Parallel Resistance Circuit](ParaResis_1.png)
+![Parallel Resistance Circuit](/01_Parallel-Resistance/images/ParaResis_1.PNG)
 And it is equal to:
-![Parallel Resistance Circuit](ParaResis_2.png)
+![Parallel Resistance Circuit](/01_Parallel-Resistance/images/ParaResis_2.PNG)
 
 # Usage Situation
 1. The R1 is what your are using in circuit. 
