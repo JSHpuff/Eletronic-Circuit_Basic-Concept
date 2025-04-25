@@ -5,4 +5,3 @@
 2. Voltage Divider Circuit
 3. Pull-up Resistors
 4. Pull-dowm Resistors
-5. MOSFET
