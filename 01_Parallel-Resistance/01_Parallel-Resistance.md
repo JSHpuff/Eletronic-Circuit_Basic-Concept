@@ -7,9 +7,11 @@ Resistor connect in parallel.
 - R<sub>i</sub> = Each Resistance on the parallel circuit
 
 # Circuit
-The parallel resistance circuit is below:
+The parallel resistance circuit is below:  
+
 ![Parallel Resistance Circuit](/01_Parallel-Resistance/images/ParaResis_1.PNG)
-And it is equal to:
+And it is equal to:  
+
 ![Parallel Resistance Circuit](/01_Parallel-Resistance/images/ParaResis_2.PNG)
 
 # Usage Situation
